@@ -25,7 +25,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class confirmpassword extends AppCompatActivity {
-
+//ttttttttttttttttttttttttest
     private Button confirm;
     private EditText reset1, reset2;
     SharedPreferences sharedPreferences;
